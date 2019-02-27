@@ -156,7 +156,7 @@ footer a {
 	padding: 0 20px 0 10px;
 }
 
-.pageWrapper {
-	width: 960px;
+nav ul, header h1, footer p, .contentWrapper {
+	max-width: 1200px;
 	margin: 0 auto;
 }
